@@ -1,0 +1,13 @@
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\bin\Release\Latin-Cyrillic TextConvert.dll
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\bin\Release\Latin-Cyrillic TextConvert.pdb
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\bin\Release\Latin-Cyrillic TextConvert.dll.manifest
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\bin\Release\Latin-Cyrillic TextConvert.vsto
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin_Cyrillic_TextConvert.Properties.Resources.resources
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin_Cyrillic_TextConvert.Ribbon1.resources
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin-Cyrillic TextConvert.csproj.GenerateResource.cache
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin-Cyrillic TextConvert.csproj.CoreCompileInputs.cache
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin-Cyrillic TextConvert.csproj.CopyComplete
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin-Cyrillic TextConvert.dll
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin-Cyrillic TextConvert.pdb
+C:\Users\majst\source\repos\Latin-Cyrillic TextConvert\obj\Release\Latin-Cyrillic TextConvert.csprojAssemblyReference.cache

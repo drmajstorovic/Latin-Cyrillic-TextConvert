@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latin-Cyrillic TextConvert", "Latin-Cyrillic TextConvert.csproj", "{14CA3AAA-76B8-4347-94B0-399818890635}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14CA3AAA-76B8-4347-94B0-399818890635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14CA3AAA-76B8-4347-94B0-399818890635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14CA3AAA-76B8-4347-94B0-399818890635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14CA3AAA-76B8-4347-94B0-399818890635}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C448C975-2F1C-46BC-965B-B52A23214019}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\bin\Debug\Latin-Cyrillic TextConvert.dll
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\bin\Debug\Latin-Cyrillic TextConvert.pdb
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\bin\Debug\Latin-Cyrillic TextConvert.dll.manifest
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\bin\Debug\Latin-Cyrillic TextConvert.vsto
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin-Cyrillic TextConvert.csproj.AssemblyReference.cache
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin_Cyrillic_TextConvert.Properties.Resources.resources
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin_Cyrillic_TextConvert.Ribbon1.resources
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin-Cyrillic TextConvert.csproj.GenerateResource.cache
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin-Cyrillic TextConvert.csproj.CoreCompileInputs.cache
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin-Cyrillic TextConvert.csproj.CopyComplete
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin-Cyrillic TextConvert.dll
+C:\Users\majst\Downloads\ДраганаМајсторовић\ДраганаМајсторовић\Latin-Cyrillic TextConvert\obj\Debug\Latin-Cyrillic TextConvert.pdb
